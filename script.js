@@ -3,7 +3,6 @@ let flashcards = [];
 let currentCardIndex = 0;
 let cardElement;
 
-// 1️⃣ Tải danh sách chủ đề và render nút
 async function loadTopics() {
   const res = await fetch('data/topics.json');
   const topics = await res.json();
@@ -19,7 +18,6 @@ async function loadTopics() {
   });
 }
 
-// 2️⃣ Khi click chủ đề, load file JSON của topic
 async function loadTopic(topicId) {
   const res = await fetch(`data/${topicId}.json`);
   flashcards = await res.json();
@@ -27,7 +25,6 @@ async function loadTopic(topicId) {
   renderFlashcard();
 }
 
-// 3️⃣ Render flashcard
 function renderFlashcard() {
   contentDiv.innerHTML = `
     <div class="flashcard-wrapper">
@@ -50,7 +47,6 @@ function renderFlashcard() {
     </div>
   `;
 
-  // Lấy phần tử
   cardElement = contentDiv.querySelector('.card');
   const questionElement = contentDiv.querySelector('#question');
   const answerElement = contentDiv.querySelector('#answer');
@@ -84,5 +80,4 @@ function renderFlashcard() {
   updateCardContent();
 }
 
-// 4️⃣ Khởi động
 loadTopics();

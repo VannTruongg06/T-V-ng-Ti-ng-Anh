@@ -1,0 +1,31 @@
+[
+  { "question": "family (n)\n/ˈfæm.əl.i/", "answer": "Gia đình" },
+  { "question": "mother (n)\n/ˈmʌð.ə/", "answer": "Mẹ" },
+  { "question": "father (n)\n/ˈfɑː.ðə/", "answer": "Bố, cha" },
+  { "question": "parent (n)\n/ˈpeə.rənt/", "answer": "Bố hoặc mẹ" },
+  { "question": "daughter (n)\n/ˈdɔː.tə/", "answer": "Con gái" },
+  { "question": "son (n)\n/sʌn/", "answer": "Con trai" },
+  { "question": "sibling (n)\n/ˈsɪb.lɪŋ/", "answer": "Anh chị em ruột" },
+  { "question": "sister (n)\n/ˈsɪs.tə/", "answer": "Chị, em gái" },
+  { "question": "brother (n)\n/ˈbrʌð.ə/", "answer": "Anh, em trai" },
+  { "question": "grandmother (n)\n/ˈɡræn.mʌð.ə/", "answer": "Bà nội (ngoại)" },
+  {
+    "question": "grandfather (n)\n/ˈɡræn.fɑː.ðə/",
+    "answer": "Ông nội (ngoại)"
+  },
+  { "question": "grandparent (n)\n/ˈɡræn.peə.rənt/", "answer": "Ông hoặc bà" },
+  { "question": "relative (n)\n/ˈrel.ə.tɪv/", "answer": "Họ hàng" },
+  { "question": "aunt (n)\n/ɑːnt/", "answer": "Cô, dì" },
+  { "question": "uncle (n)\n/ˈʌŋ.kəl/", "answer": "Chú, bác, cậu, dượng" },
+  { "question": "cousin (n)\n/ˈkʌz.ən/", "answer": "Anh em họ" },
+  {
+    "question": "nephew (n)\n/ˈnef.juː/",
+    "answer": "Cháu trai (con của anh/chị/em)"
+  },
+  {
+    "question": "niece (n)\n/niːs/",
+    "answer": "Cháu gái (con của anh/chị/em)"
+  },
+  { "question": "wife (n)\n/waɪf/", "answer": "Vợ" },
+  { "question": "husband (n)\n/ˈhʌz.bənd/", "answer": "Chồng" }
+]

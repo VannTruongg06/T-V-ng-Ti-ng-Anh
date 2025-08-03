@@ -1,7 +1,7 @@
 [
   { "id": "job", "name": "JOB - Nghề nghiệp" },
   { "id": "fruit", "name": "FRUIT - Trái cây" },
-  { "id": "animal", "name": "ANIMAL - Động vật" },
+  { "id": "family", "name": "Family - Gia đình" },
   { "id": "color", "name": "COLOR - Màu sắc" },
   { "id": "vehicle", "name": "VEHICLE - Phương tiện" },
   { "id": "clothes", "name": "CLOTHES - Quần áo" },

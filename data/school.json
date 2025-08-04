@@ -1,0 +1,23 @@
+[
+  { "question": "school (n)\n /skuːl/", "answer": "trường học" },
+  { "question": "class (n)\n /klæs/", "answer": "lớp học" },
+  { "question": "student (n)\n /ˈstjuː.dənt/", "answer": "học sinh, sinh viên" },
+  { "question": "pupil (n)\n /ˈpjuːpɪl/", "answer": "học sinh" },
+  { "question": "teacher (n)\n /ˈtiː.tʃər/", "answer": "giáo viên" },
+  { "question": "principal (n)\n /ˈprɪn.sə.pəl/", "answer": "hiệu trưởng" },
+  { "question": "course (n)\n /kɔːrs/", "answer": "khóa học" },
+  { "question": "semester (n)\n /sɪˈmes.tɚ/", "answer": "học kì" },
+  { "question": "exercise (n)\n /ˈek.sɚ.saɪz/", "answer": "bài tập" },
+  { "question": "homework (n)\n /ˈhoʊm.wɝːk/", "answer": "bài tập về nhà" },
+  { "question": "examination, exam (n)\n /ɪɡˌzæmɪˈneɪʃn/, /ɪɡˈzæm/", "answer": "bài kiểm tra" },
+  { "question": "grade (n)\n /ɡreɪd/", "answer": "điểm số" },
+  { "question": "certificate (n)\n /sɚˈtɪf.ɪ.kət/", "answer": "bằng cấp, giấy khen" },
+  { "question": "kindergarten (n)\n /ˈkɪn.dəˌɡɑːr.tn/", "answer": "lớp mẫu giáo, nhà trẻ" },
+  { "question": "primary school (n)\n /ˈpraɪ.mer.i ˌskuːl/", "answer": "trường tiểu học" },
+  { "question": "secondary school (n)\n /ˈsek.ən.der.i ˌskuːl/", "answer": "trường trung học, cấp 2" },
+  { "question": "high school (n)\n /ˈhaɪ ˌskuːl/", "answer": "trường cấp 3" },
+  { "question": "university (n)\n /ˌjuː.nɪˈvɝː.sə.t̬i/", "answer": "trường đại học" },
+  { "question": "college (n)\n /ˈkɑː.lɪdʒ/", "answer": "trường đại học, cao đẳng" },
+  { "question": "private school (n)\n /ˈpraɪ.vət ˌskuːl/", "answer": "trường tư" },
+  { "question": "public school (n)\n /ˈpʌb.lɪk ˌskuːl/", "answer": "trường công" }
+]

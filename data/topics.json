@@ -2,11 +2,13 @@
   { "id": "job", "name": "JOB - Nghề nghiệp" },
   { "id": "fruit", "name": "FRUIT - Trái cây" },
   { "id": "family", "name": "Family - Gia đình" },
+  { "id": "animal", "name": "ANIMALL - Động vật" },
   { "id": "color", "name": "COLOR - Màu sắc" },
-  { "id": "vehicle", "name": "VEHICLE - Phương tiện" },
-  { "id": "clothes", "name": "CLOTHES - Quần áo" },
-  { "id": "sport", "name": "SPORT - Thể thao" },
-  { "id": "body", "name": "BODY - Cơ thể" },
-  { "id": "emotion", "name": "EMOTION - Cảm xúc" },
-  { "id": "weather", "name": "WEATHER - Thời tiết" }
+  { "id": "body_pats", "name": " BODY PARTS – Bộ Phận Cơ Thể " },
+  { "id": "school", "name": "SCHOOL - Trường học" },
+  { "id": "character", "name": "CHARACTER - Tính cách" },
+  { "id": "school-objects", "name": "SCHOOL OBJECTS - Đồ dùng học tập" },
+  { "id": "nature", "name": "NATURE – Thiên nhiên" },
+  { "id": "leisure", "name": "LEISURE – Giải trí" },
+  { "id": "house", "name": "HOUSE – Nhà cửa" }
 ]

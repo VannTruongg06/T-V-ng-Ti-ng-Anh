@@ -19,9 +19,9 @@
   { "id": "feelings", "name": "FEELINGS - Cảm xúc" },
   { "id": "cooking", "name": "COOKING - Nấu ăn" },
   { "id": "vehicles", "name": "VEHICLES - Phương tiện giao thông" },
-  { "id": "(travel", "name": "(TRAVEL - Du lịch" },
-  { "id": "(subjects", "name": "(SUBJECTS - Môn học" },
-  { "id": "(shapes", "name": "(SHAPES - Hình khối" },
-  { "id": "(sports", "name": "(SPORTS - Thể thao" },
-  { "id": "(time", "name": "(TIME - Thể thao" }
+  { "id": "travel", "name": "TRAVEL - Du lịch" },
+  { "id": "subjects", "name": "SUBJECTS - Môn học" },
+  { "id": "shapes", "name": "SHAPES - Hình khối" },
+  { "id": "sports", "name": "SPORTS - Thể thao" },
+  { "id": "time", "name": "TIME - Thể thao" }
 ]

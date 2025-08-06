@@ -1,0 +1,19 @@
+[
+  { "question": "circle (n)\n/ˈsɝː.kəl/", "answer": "hình tròn" },
+  { "question": "oval (n)\n/ˈoʊ.vəl/", "answer": "hình bầu dục" },
+  { "question": "triangle (n)\n/ˈtraɪˌæŋ.ɡəl/", "answer": "hình tam giác" },
+  { "question": "square (n)\n/skwer/", "answer": "hình vuông" },
+  { "question": "rectangle (n)\n/ˈrek.tæŋ.ɡəl/", "answer": "hình chữ nhật" },
+  { "question": "diamond (n)\n/ˈdaɪə.mənd/", "answer": "hình thoi" },
+  { "question": "parallelogram (n)\n/ˌper.əˈlel.ə.ɡræm/", "answer": "hình bình hành" },
+  { "question": "trapezoid (n)\n/ˈtræp.ə.zɔɪd/", "answer": "hình thang" },
+  { "question": "polygon (n)\n/ˈpɑː.lɪ.ɡɑːn/", "answer": "đa giác" },
+  { "question": "pentagon (n)\n/ˈpen.tə.ɡɑːn/", "answer": "ngũ giác" },
+  { "question": "hexagon (n)\n/ˈhek.sə.ɡɑːn/", "answer": "lục giác" },
+  { "question": "octagon (n)\n/ˈɑːk.tə.ɡɑːn/", "answer": "bát giác" },
+  { "question": "sphere (n)\n/sfɪr/", "answer": "hình cầu" },
+  { "question": "cube (n)\n/kjuːb/", "answer": "hình lập phương" },
+  { "question": "cylinder (n)\n/ˈsɪl.ɪn.dɚ/", "answer": "hình trụ" },
+  { "question": "cone (n)\n/koʊn/", "answer": "hình nón" },
+  { "question": "pyramid (n)\n/ˈpɪr.ə.mɪd/", "answer": "hình chóp (kim tự tháp)" }
+]

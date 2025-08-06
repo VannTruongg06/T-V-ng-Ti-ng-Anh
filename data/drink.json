@@ -1,0 +1,15 @@
+[
+  { "question": "water (n)\n/ˈwɔː.tər/", "answer": "nước" },
+  { "question": "lemonade (n)\n/ˌlem.əˈneɪd/", "answer": "nước chanh" },
+  { "question": "juice (n)\n/dʒuːs/", "answer": "nước ép" },
+  { "question": "smoothie (n)\n/ˈsmuː.ði/", "answer": "sinh tố" },
+  { "question": "coffee (n)\n/ˈkɒf.i/", "answer": "cà phê" },
+  { "question": "tea (n)\n/tiː/", "answer": "trà" },
+  { "question": "milk (n)\n/mɪlk/", "answer": "sữa" },
+  { "question": "bubble tea (n)\n/ˌbʌb.əl ˈtiː/", "answer": "trà sữa trân châu" },
+  { "question": "hot chocolate (n)\n/ˌhɒt ˈtʃɒk.lət/", "answer": "sô cô la nóng" },
+  { "question": "beer (n)\n/bɪər/", "answer": "bia" },
+  { "question": "wine (n)\n/waɪn/", "answer": "rượu vang" },
+  { "question": "yogurt (n)\n/ˈjəʊ.ɡət/", "answer": "sữa chua" },
+  { "question": "ice cream (n)\n/ˈaɪs ˌkriːm/", "answer": "kem" }
+]

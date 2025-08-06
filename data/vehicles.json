@@ -1,0 +1,23 @@
+[
+  { "question": "car (n)\n/kɑːr/", "answer": "xe hơi" },
+  { "question": "bus (n)\n/bʌs/", "answer": "xe buýt" },
+  { "question": "truck (n)\n/trʌk/", "answer": "xe tải" },
+  { "question": "motorbike (n)\n/ˈmoʊ.t̬ɚ.baɪk/", "answer": "xe máy" },
+  { "question": "bicycle (n)\n/ˈbaɪ.sɪ.kəl/", "answer": "xe đạp" },
+  { "question": "scooter (n)\n/ˈskuː.t̬ɚ/", "answer": "xe tay ga" },
+  { "question": "train (n)\n/treɪn/", "answer": "tàu hỏa" },
+  { "question": "subway (n)\n/ˈsʌb.weɪ/", "answer": "tàu điện ngầm" },
+  { "question": "tram (n)\n/træm/", "answer": "tàu điện (trên mặt đất)" },
+  { "question": "boat (n)\n/boʊt/", "answer": "thuyền" },
+  { "question": "ship (n)\n/ʃɪp/", "answer": "tàu thủy" },
+  { "question": "ferry (n)\n/ˈfer.i/", "answer": "phà" },
+  { "question": "airplane (n)\n/ˈer.pleɪn/", "answer": "máy bay" },
+  { "question": "helicopter (n)\n/ˈhel.ɪˌkɑːp.tɚ/", "answer": "trực thăng" },
+  { "question": "taxi (n)\n/ˈtæk.si/", "answer": "xe taxi" },
+  { "question": "ambulance (n)\n/ˈæm.bjə.ləns/", "answer": "xe cứu thương" },
+  { "question": "fire engine (n)\n/ˈfaɪr ˌen.dʒɪn/", "answer": "xe cứu hỏa" },
+  { "question": "police car (n)\n/pəˈliːs kɑːr/", "answer": "xe cảnh sát" },
+  { "question": "tractor (n)\n/ˈtræk.tɚ/", "answer": "máy kéo, xe nông nghiệp" },
+  { "question": "ship cargo (n)\n/ʃɪp ˈkɑːr.ɡoʊ/", "answer": "tàu chở hàng" },
+  { "question": "canoe (n)\n/kəˈnuː/", "answer": "xuồng" }
+]

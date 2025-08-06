@@ -1,0 +1,22 @@
+[
+  { "question": "football (n)\n/ˈfʊt.bɔːl/", "answer": "bóng đá (Anh)" },
+  { "question": "soccer (n)\n/ˈsɑː.kɚ/", "answer": "bóng đá (Mỹ)" },
+  { "question": "basketball (n)\n/ˈbæs.kɪtˌbɔːl/", "answer": "bóng rổ" },
+  { "question": "volleyball (n)\n/ˈvɑː.liˌbɔːl/", "answer": "bóng chuyền" },
+  { "question": "badminton (n)\n/ˈbæd.mɪn.tən/", "answer": "cầu lông" },
+  { "question": "tennis (n)\n/ˈten.ɪs/", "answer": "quần vợt" },
+  { "question": "table tennis (n)\n/ˈteɪ.bəl ˌten.ɪs/", "answer": "bóng bàn" },
+  { "question": "baseball (n)\n/ˈbeɪs.bɔːl/", "answer": "bóng chày" },
+  { "question": "golf (n)\n/ɡɑːlf/", "answer": "gôn" },
+  { "question": "rugby (n)\n/ˈrʌɡ.bi/", "answer": "bóng bầu dục" },
+  { "question": "swimming (n)\n/ˈswɪm.ɪŋ/", "answer": "bơi lội" },
+  { "question": "diving (n)\n/ˈdaɪ.vɪŋ/", "answer": "lặn" },
+  { "question": "surfing (n)\n/ˈsɝː.fɪŋ/", "answer": "lướt sóng" },
+  { "question": "skiing (n)\n/ˈskiː.ɪŋ/", "answer": "trượt tuyết" },
+  { "question": "skating (n)\n/ˈskeɪ.t̬ɪŋ/", "answer": "trượt băng / trượt patin" },
+  { "question": "cycling (n)\n/ˈsaɪ.klɪŋ/", "answer": "đạp xe" },
+  { "question": "athletics (n)\n/æθˈlet̬.ɪks/", "answer": "điền kinh" },
+  { "question": "gymnastics (n)\n/dʒɪmˈnæs.tɪks/", "answer": "thể dục dụng cụ" },
+  { "question": "boxing (n)\n/ˈbɑːk.sɪŋ/", "answer": "đấm bốc" },
+  { "question": "martial arts (n)\n/ˌmɑːr.ʃəl ˈɑːrts/", "answer": "võ thuật" }
+]

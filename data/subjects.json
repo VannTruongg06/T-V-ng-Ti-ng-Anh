@@ -1,0 +1,22 @@
+[
+  { "question": "math (n)\n/mæθ/", "answer": "toán học" },
+  { "question": "algebra (n)\n/ˈæl.dʒɪ.brə/", "answer": "đại số" },
+  { "question": "geometry (n)\n/dʒiˈɑː.mə.tri/", "answer": "hình học" },
+  { "question": "calculus (n)\n/ˈkæl.kjə.ləs/", "answer": "giải tích" },
+  { "question": "physics (n)\n/ˈfɪz.ɪks/", "answer": "vật lý" },
+  { "question": "chemistry (n)\n/ˈkem.ɪ.stri/", "answer": "hóa học" },
+  { "question": "biology (n)\n/baɪˈɑː.lə.dʒi/", "answer": "sinh học" },
+  { "question": "geography (n)\n/dʒiˈɑː.ɡrə.fi/", "answer": "địa lý" },
+  { "question": "history (n)\n/ˈhɪs.tɚ.i/", "answer": "lịch sử" },
+  { "question": "literature (n)\n/ˈlɪt̬.ə.rə.tʃɚ/", "answer": "văn học" },
+  { "question": "language (n)\n/ˈlæŋ.ɡwɪdʒ/", "answer": "ngôn ngữ" },
+  { "question": "English (n)\n/ˈɪŋ.ɡlɪʃ/", "answer": "tiếng Anh" },
+  { "question": "French (n)\n/frentʃ/", "answer": "tiếng Pháp" },
+  { "question": "Chinese (n)\n/tʃaɪˈniːz/", "answer": "tiếng Trung" },
+  { "question": "art (n)\n/ɑːrt/", "answer": "mỹ thuật" },
+  { "question": "music (n)\n/ˈmjuː.zɪk/", "answer": "âm nhạc" },
+  { "question": "physical education (n)\n/ˌfɪz.ɪ.kəl ed.jʊˈkeɪ.ʃən/", "answer": "thể dục" },
+  { "question": "informatics (n)\n/ˌɪn.fɚˈmæt̬.ɪks/", "answer": "tin học" },
+  { "question": "civics (n)\n/ˈsɪv.ɪks/", "answer": "giáo dục công dân" },
+  { "question": "economics (n)\n/iː.kəˈnɑː.mɪks/", "answer": "kinh tế học" }
+]
